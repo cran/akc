@@ -1,6 +1,6 @@
 Package: akc
 Title: Automatic Knowledge Classification
-Version: 0.9.0
+Version: 0.9.1
 Authors@R: 
     person(given = "Tian-Yuan",
            family = "Huang",
@@ -20,8 +20,8 @@ RoxygenNote: 7.0.2
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-01-07 11:30:09 UTC; Hope
+Packaged: 2020-01-09 07:33:50 UTC; Hope
 Author: Tian-Yuan Huang [aut, cre] (<https://orcid.org/0000-0002-3591-4203>)
 Maintainer: Tian-Yuan Huang <huang.tian-yuan@qq.com>
 Repository: CRAN
-Date/Publication: 2020-01-08 16:30:11 UTC
+Date/Publication: 2020-01-09 12:30:02 UTC
