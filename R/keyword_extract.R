@@ -53,11 +53,12 @@ keyword_extract = function(dt,id = "id",text,
     unique() %>%
     na.omit()-> df
 
-  if(is.null(dict)) df
+  if(is.null(dict)) df %>% select(id,keyword)
   else df %>%
     data.table(key = "keyword") %>%
     merge(dict,by = "keyword") %>%
-    as_tibble()
+    as_tibble() %>%
+    select(id,keyword)
 
 }
 
