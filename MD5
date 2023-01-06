@@ -1,4 +1,4 @@
-0a36464a9727e81bf845af834b4045d1 *DESCRIPTION
+cea941507af154618c02b90eb902cd80 *DESCRIPTION
 61cb1fcaf199b03ad4f3f58da07638de *LICENSE
 39290c3525423c25328c8ba5dc358430 *NAMESPACE
 2b25b67fc49f606cb7e8b1f0e9c1b161 *R/akc-package.R
@@ -9,7 +9,7 @@ e9e53e9bc258372ffeafaa40ceb9cfb9 *R/global_export.R
 496f42a792b6211b46b8ce7e67f492cc *R/keyword_clean.R
 329c5f349e2bea6f13038284c77ffb28 *R/keyword_cloud.R
 6b907b05ac5cb546168c1a42ceb0c0ad *R/keyword_extract.R
-128fd70a5e4ef1c0c9b3ebe7288b5f23 *R/keyword_group.R
+351a00eac90b0caee4f6206a4117d127 *R/keyword_group.R
 a8c2155cf90cee90b9599c73384366cf *R/keyword_merge.R
 f4593144dbf3e44a7e5f3defec96782c *R/keyword_network.R
 26947003e1d8cba5b076a1b59cdc4efd *R/keyword_table.R
@@ -17,15 +17,16 @@ b93973ef35b01ae52c0535bb6d70fa28 *R/keyword_vis.R
 f3a3f06524ed699eacccbab09ed0135c *R/make_dict.R
 5d392023a51f270598f76e081728c86a *build/vignette.rds
 fff488d55f7d6be35e378800e7d37a15 *data/bibli_data_table.rda
+808a1bff9d271ca9944f8e9882507924 *inst/CITATION
 a079bed22a547ee1cc620e8883b81c85 *inst/doc/Benchmarking.R
 47eea327df97ed337d862554ce20bd4b *inst/doc/Benchmarking.Rmd
 d1e6d7e41033f5da846cde3e7fc33f85 *inst/doc/Benchmarking.html
 7fb0a8bf0c1465904bbed96e1cf07f1d *inst/doc/akc_vignette.R
 9eaeb4b4a5e148225f358093603595c0 *inst/doc/akc_vignette.Rmd
-29031274e4ec62e0eba547ba5598e54d *inst/doc/akc_vignette.html
+e6187eb2f3426b0851f68d1e764e51ca *inst/doc/akc_vignette.html
 95f2cadd9fab5e6063aa599ea8b0f588 *inst/doc/tutorial_raw_text.R
 4c496aaa48223f9ac9d90e8352a3eebc *inst/doc/tutorial_raw_text.Rmd
-c8a583d4b5d4face854af4a5fdc4ef74 *inst/doc/tutorial_raw_text.html
+d2402bbb304d150dfa7b6d65e4fbd18e *inst/doc/tutorial_raw_text.html
 ac94aaab5fc4ecb27d1ae753f6c33df3 *man/akc-package.Rd
 e744bd1ae1da0580112da4088fe45855 *man/bibli_data_table.Rd
 3f6700d57fb3c83acd02887250ede15f *man/doc_group.Rd
@@ -33,7 +34,7 @@ e744bd1ae1da0580112da4088fe45855 *man/bibli_data_table.Rd
 8939f81e013108dc9a888e062004b43d *man/keyword_clean.Rd
 8543c77895fb7976a7af961e756a3a1b *man/keyword_cloud.Rd
 9b260b8ed3edfda83be275e1d2f768bc *man/keyword_extract.Rd
-ea9f5ed825063f82815a5f993aded23a *man/keyword_group.Rd
+04b8dbd870eeb16d56c05cfcfc67d379 *man/keyword_group.Rd
 ab00ec87d5324ee86098f2a510efd423 *man/keyword_merge.Rd
 3ab4f938d50741bdcd3160df6fb58954 *man/keyword_network.Rd
 7dd9ab15aded9323f32ab0622e54a30f *man/keyword_table.Rd
