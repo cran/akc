@@ -1,4 +1,4 @@
-## ---- include = FALSE---------------------------------------------------------
+## ----include = FALSE----------------------------------------------------------
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
@@ -37,7 +37,7 @@ grouped_data
 grouped_data %>% 
   keyword_table(top = 10)
 
-## ---- fig.width=10, fig.height=8----------------------------------------------
+## ----fig.width=10, fig.height=8-----------------------------------------------
 grouped_data %>% 
   keyword_vis()
 
